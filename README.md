@@ -36,5 +36,9 @@ Thank you for using ECHOMANCING 1.1!
 
 ## Download
 
-[![Download ECHOMANCING 1.1](https://img.shields.io/badge/Download-ECHOMANCING%201.1-blue.svg)](https://www.mediafire.com/file/p3tc516du31w8ke/echosetup.rar/file)
+#### :package: Installer
+[![Download ECHOMANCING 1.1 Installer](https://img.shields.io/badge/Download-Installer-green.svg)](https://www.mediafire.com/file/p3tc516du31w8ke/echosetup.rar/file)
+
+#### :floppy_disk: Portable
+[![Download ECHOMANCING 1.1 Portable](https://img.shields.io/badge/Download-Portable-orange.svg)](https://www.mediafire.com/file/hlkfl90i0g3rc6r/Echomancing1.0.rar/file)
 ****
